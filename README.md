@@ -22,6 +22,6 @@
 
 ### Conta Administrador
  O sistema tem uma conta de administrador com permissão total de exclusão que pode ser acessada com as seguintes credenciais
-    **admin / admin**
+    `{ email : 'admin', password: 'admin' }`
 
     
