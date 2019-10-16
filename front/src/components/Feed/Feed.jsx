@@ -51,7 +51,7 @@ export const Feed = () => {
             .catch(() => {
                 setSnackbar({
                     open: true,
-                    message: 'Erro ao excluir publicação',
+                    message: 'Publicação contem comentarios',
                     variant: 'error'
                 })
             })
